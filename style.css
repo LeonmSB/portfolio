@@ -1,0 +1,11 @@
+.topcontainer {
+    display: flex;
+}
+
+.bottomcontainer {
+    display: flex;
+}
+
+#ReturnHome {
+    display: none;
+}
